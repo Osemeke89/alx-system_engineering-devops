@@ -1,1 +1,1 @@
-0x09-web_infrastructure_design
+Web infrastructure design whiteboarding for all mentioned tasks
